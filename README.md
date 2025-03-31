@@ -4,6 +4,7 @@
 - 个人主页地址[跳转](https://home.binbim.top/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BB0813)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BB0813_icons=true&theme=radical)
 
 <!---
 BB0813/BB0813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
