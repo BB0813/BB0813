@@ -3,6 +3,7 @@
 - 👀 目前正在自学前端&后端 力求全栈开发
 - 个人主页地址[跳转](https://home.binbim.top/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BB0813)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BB0813/BB0813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
