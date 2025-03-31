@@ -4,6 +4,7 @@
 - 个人主页地址[跳转](https://home.binbim.top/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB0813) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BB0813)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BB0813&left_color=green&right_color=red)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BB0813)
 
 <!---
