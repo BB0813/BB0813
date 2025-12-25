@@ -1,6 +1,6 @@
 - 👋 我是BinbimTech
 - 一名中职计算机专业三年级在读生
-- [云锻开源团队|CloudForge OSS](https://www.yunforge.xyz/)创始人
+- [光圈棱镜-AperturePrism](https://www.aprism.top)核心开发者
 - 👀 目前正在自学前端&后端 力求全栈开发
 - 个人主页地址[跳转](https://home.binbim.top/)
 
