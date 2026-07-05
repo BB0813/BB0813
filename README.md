@@ -34,7 +34,7 @@ role:       Full-Stack Dev / AI App Dev / NAS Homelab
 
 - 🔮 **核心开发者** @ [光圈棱镜 AperturePrism](https://www.aprism.top)
 - 🌱 **正在自学** Full-Stack（前端 → 后端 → 全栈）
-- 🏠 **个人主页** [home.binbim.top](https://home.binbim.top/)
+- 🏠 **个人主页** [hi.binbim.top](https://hi.binbim.top/)
 - 🖥️ **NAS 玩家** 飞牛OS NAS 自托管 17+ 服务稳定运行
 - 💬 **擅长** Web Dev / AI Apps / 提示词工程 / NAS 折腾
 - 📫 **联系我** [binbim_promax@163.com](mailto:binbim_promax@163.com)
