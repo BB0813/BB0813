@@ -192,7 +192,7 @@ role:       Full-Stack Dev / AI App Dev / NAS Homelab
 </p>
 
 <p align="center">
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB0813&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BB0813&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 ---
@@ -204,18 +204,27 @@ role:       Full-Stack Dev / AI App Dev / NAS Homelab
 ### 🔮 Featured Projects
 
 <p align="center">
-<a href="https://www.aprism.top">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=BB0813&repo=AperturePrism&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/BB0813/Binbim-HomePage">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=BB0813&repo=Binbim-HomePage&theme=tokyonight&hide_border=true" />
-</a>
+  <a href="https://github.com/BB0813/aeon">
+    <img width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BB0813&repo=aeon&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/BB0813?tab=repositories">
-  <img src="https://img.shields.io/badge/More%20Projects-%E2%86%92-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/BB0813/SPlayer-ROM-Compat">
+    <img width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BB0813&repo=SPlayer-ROM-Compat&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BB0813/Netease-CDN-Bypass">
+    <img width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BB0813&repo=Netease-CDN-Bypass&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BB0813?tab=repositories">
+    <img src="https://img.shields.io/badge/More%20Projects-%E2%86%92-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
