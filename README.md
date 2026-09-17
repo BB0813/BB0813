@@ -60,7 +60,7 @@ role:       Full-Stack Dev / AI App Dev / NAS Homelab
 | 📌 正在开发 | 📚 正在学习 |
 |:---|:---|
 | • [光圈棱镜 AperturePrism](https://www.aprism.top) — 核心开发 | • Vue 3 / React 深度实践 |
-| • LianYu恋语 - 核心开发 | • 功能开发（语音通话 · bug修复） |
+| • [予念YuNian](https://lianyu.chat/) - 核心开发 | • 功能开发（语音通话 · bug修复） |
 | • GXKS-OA — OA 系统开发 | • Node.js 后端 API 设计 |
 | • 个人博客 & 主页迭代升级 | • Docker / Linux 运维基础 |
 | • Hermes Web UI 服务维护 | • 数据库设计与优化 |
